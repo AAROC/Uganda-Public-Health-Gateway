@@ -17,7 +17,7 @@
     "grunt-contrib-jshint": "^3.0.0",
     "grunt-contrib-less": "^3.0.0",
     "grunt-contrib-uglify": "^5.0.0",
-    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-watch": "~1.1.0",
     "grunt-cssjanus": "^1.0.0",
     "grunt-image": "^6.0.0",
     "grunt-includes": "^1.0.0"
