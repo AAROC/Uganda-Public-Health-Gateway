@@ -19,7 +19,7 @@
     "grunt-contrib-uglify": "^5.0.0",
     "grunt-contrib-watch": "~0.6.1",
     "grunt-cssjanus": "^0.5.0",
-    "grunt-image": "^1.0.5",
+    "grunt-image": "^6.0.0",
     "grunt-includes": "^1.0.0"
   }
 }
